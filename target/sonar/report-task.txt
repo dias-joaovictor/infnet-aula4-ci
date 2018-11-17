@@ -1,6 +1,0 @@
-projectKey=br.com.infnet:aula4
-serverUrl=http://localhost:9000
-serverVersion=7.4.0.18908
-dashboardUrl=http://localhost:9000/dashboard?id=br.com.infnet%3Aaula4
-ceTaskId=AWce-nSynZmoQevVg_dG
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWce-nSynZmoQevVg_dG
